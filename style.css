@@ -1,0 +1,14 @@
+.background{
+    background:rosybrown;
+}
+#output{
+    background-color: antiquewhite;
+    border: 5px solid plum;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    width: 60%;
+}
+#inp{
+    width: 60%;
+}
